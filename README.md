@@ -1,1 +1,1 @@
-# pointOfSale
+# Josu Calculator
