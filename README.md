@@ -1,2 +1,1 @@
-# reactNativeCalculator
-A simple calculator
+# pointOfSale
